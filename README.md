@@ -36,7 +36,8 @@
 
 # task bar
 * enable automatically hide the task bar in settings
-* put task bar on the right with [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) or [StartAllBack](https://www.startallback.com/) (I use StartAllBack) 
+* put task bar on the right with [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) or [StartAllBack](https://www.startallback.com/) (I use StartAllBack)
+* [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) (windows 11 only)
 
 # [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [my custom css](https://github.com/Rifqi2007c/firefox-css)
