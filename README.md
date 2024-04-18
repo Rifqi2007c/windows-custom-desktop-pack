@@ -39,6 +39,7 @@
 * put task bar on the right with [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) or [StartAllBack](https://www.startallback.com/) (I use StartAllBack)
 * [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) (windows 11 only)
 
-# [Firefox](https://www.mozilla.org/en-US/firefox/)
-* [my custom css](https://github.com/Rifqi2007c/firefox-css)
-
+# extra
+* [my wallaper folder](https://drive.google.com/drive/folders/1GuL6vkfVSh4UMI_UacVN7z4jhkNDJDlW?usp=drive_link)
+* VScode theme : Tomorrow Night Blue
+* [my firefox css](https://github.com/Rifqi2007c/firefox-css)
