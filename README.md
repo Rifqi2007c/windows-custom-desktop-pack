@@ -12,6 +12,9 @@
 # [komorebi](https://github.com/LGUG2Z/komorebi)
 * [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json)(this config is for two monitor setup)
 
+# [flow launcher](https://www.flowlauncher.com/)
+* Theme : [violet](https://github.com/eliaszon/Violet.flow)
+
 # [winfetch](https://github.com/lptstr/winfetch)
 * [my custom winfetch](https://github.com/Rifqi2007c/winfetch-custom-theme)
 
