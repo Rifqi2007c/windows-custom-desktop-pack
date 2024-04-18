@@ -9,6 +9,9 @@
 * [wezterm](https://wezfurlong.org/wezterm/index.html)
    - [.wezterm.lua](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.wezterm.lua)
 
+# [komorebi](https://github.com/LGUG2Z/komorebi)
+* [komorebi.json]()(this config is for two monitor setup)
+
 # [winfetch](https://github.com/lptstr/winfetch)
 * [my custom winfetch](https://github.com/Rifqi2007c/winfetch-custom-theme)
 
