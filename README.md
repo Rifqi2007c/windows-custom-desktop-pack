@@ -3,12 +3,16 @@
 
 # Terminal
 * windows terminal
-   - settings.json
+   - [settings.json]()
 * wezterm
-   - .wezterm.lua
+   - [.wezterm.lua]()
 
 # winfetch
 * [my custom winfetch](https://github.com/Rifqi2007c/winfetch-custom-theme)
 
 # neofetch(wsl)
-* config.conf
+* [config.conf]()
+
+# cava(wsl with winscap)
+* [config]()
+* [winscap](https://github.com/quantum5/winscap)
