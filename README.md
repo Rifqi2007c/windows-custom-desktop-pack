@@ -1,4 +1,4 @@
-f08045b2-3c3b-4a2d-b101-ffc57a18912d)# [yasb bar](https://github.com/da-rth/yasb)
+# [yasb bar](https://github.com/da-rth/yasb)
 ![alt text](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/topbar.png)
 * [config.yaml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.yasb/config.yaml)
 * [styles.css](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.yasb/styles.css)
