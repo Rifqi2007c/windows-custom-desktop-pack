@@ -30,6 +30,10 @@
 * [script](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers/blob/main/Functions/Set-WallPaper.md)(by I am Jakoby)
 * [guide](https://www.youtube.com/watch?v=N1Vdkd7P_cM)(by I am Jakoby)
 
+# windows theme and custom cursor
+* Theme : [One Dark Pro](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-930312689)
+* cursor : [catppuccin(mocha rosewater)](https://www.deviantart.com/niivu/art/Catppuccin-Cursors-921387705)
+
 # [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [my custom css](https://github.com/Rifqi2007c/firefox-css)
 
