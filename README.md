@@ -10,7 +10,7 @@
    - [.wezterm.lua](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.wezterm.lua)
 
 # [komorebi](https://github.com/LGUG2Z/komorebi)
-* [komorebi.json]()(this config is for two monitor setup)
+* [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json)(this config is for two monitor setup)
 
 # [winfetch](https://github.com/lptstr/winfetch)
 * [my custom winfetch](https://github.com/Rifqi2007c/winfetch-custom-theme)
@@ -21,3 +21,12 @@
 # [cava](https://github.com/karlstav/cava)(wsl with winscap)
 * [config](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/config)
 * [winscap](https://github.com/quantum5/winscap)
+  - [guide on how to use cava(wsl) with winscap](https://www.youtube.com/watch?v=Sp1Qjdqt4TQ&list=WL&index=1&t=77s)(by José Rodolfo)
+
+# .ps1 script for changing wallpaper
+* [script](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers/blob/main/Functions/Set-WallPaper.md)(by I am Jakoby)
+* [guide](https://www.youtube.com/watch?v=N1Vdkd7P_cM)(by I am Jakoby)
+
+# [Firefox](https://www.mozilla.org/en-US/firefox/)
+* [my custom css](https://github.com/Rifqi2007c/firefox-css)
+
