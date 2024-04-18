@@ -1,0 +1,9 @@
+2024-04-19 01:42:43 INFO log.py: Yasb - Yet Another Status Bar
+2024-04-19 01:42:43 ERROR errorhandler.py: Property: Invalid value for "CSS Level 2.1" property: -10 [26:3: margin-left]
+2024-04-19 01:42:43 ERROR errorhandler.py: Property: Invalid value for "CSS Level 2.1" property: -10 [184:3: margin-right]
+2024-04-19 01:42:45 INFO bar_manager.py: Starting SystemEventListener...
+2024-04-19 01:42:45 INFO bar_manager.py: Starting KomorebiEventListener...
+2024-04-19 01:42:46 INFO event_listener.py: Created named pipe yasb-10e8b136-fdab-11ee-ada9-f079598fcfa1
+2024-04-19 01:42:46 INFO watcher.py: Created file watcher for path C:\Users\Rifqi\.yasb
+2024-04-19 01:42:46 INFO event_listener.py: Waiting for Komorebi to subscribe to named pipe yasb-10e8b136-fdab-11ee-ada9-f079598fcfa1
+2024-04-19 01:42:46 INFO event_listener.py: Komorebi connected to named pipe: yasb-10e8b136-fdab-11ee-ada9-f079598fcfa1
