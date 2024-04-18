@@ -34,6 +34,10 @@
 * Theme : [One Dark Pro](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-930312689)
 * cursor : [catppuccin(mocha rosewater)](https://www.deviantart.com/niivu/art/Catppuccin-Cursors-921387705)
 
+# task bar
+* enable automatically hide the task bar in settings
+* put task bar on the right with [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) or [StartAllBack](https://www.startallback.com/) (I use StartAllBack) 
+
 # [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [my custom css](https://github.com/Rifqi2007c/firefox-css)
 
