@@ -13,7 +13,7 @@
 * Theme : [violet](https://github.com/eliaszon/Violet.flow)
 
 # [AutoHotkey](https://www.autohotkey.com/)
-[komorebi+extraHotkey.ahk](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi%2BextraHotkey.ahk)
+* [komorebi+extraHotkey.ahk](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi%2BextraHotkey.ahk)
 
 # Terminal
 * [windows terminal](https://github.com/microsoft/terminal)(I use .zip version from github)
