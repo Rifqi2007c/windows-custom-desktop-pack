@@ -1,19 +1,22 @@
+# [komorebi](https://github.com/LGUG2Z/komorebi)
+* [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json)(this config is for two monitor setup)
+
 # [yasb bar](https://github.com/da-rth/yasb)
 ![alt text](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/topbar.png)
 * [config.yaml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.yasb/config.yaml)
 * [styles.css](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.yasb/styles.css)
+
+# [flow launcher](https://www.flowlauncher.com/)
+* Theme : [violet](https://github.com/eliaszon/Violet.flow)
+
+[AutoHotkey](https://www.autohotkey.com/)
+[komorebi+extrahotkey.ahk]()
 
 # Terminal
 * [windows terminal](https://github.com/microsoft/terminal)(I use .zip version from github)
    - [settings.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/settings.json)
 * [wezterm](https://wezfurlong.org/wezterm/index.html)
    - [.wezterm.lua](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.wezterm.lua)
-
-# [komorebi](https://github.com/LGUG2Z/komorebi)
-* [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json)(this config is for two monitor setup)
-
-# [flow launcher](https://www.flowlauncher.com/)
-* Theme : [violet](https://github.com/eliaszon/Violet.flow)
 
 # [winfetch](https://github.com/lptstr/winfetch)
 * [my custom winfetch](https://github.com/Rifqi2007c/winfetch-custom-theme)
