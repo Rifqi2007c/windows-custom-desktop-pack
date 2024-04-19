@@ -1,3 +1,6 @@
+# yasb bar and terminal font (make sure to install this first)
+* [0xproto Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/0xProto.zip)
+
 # [komorebi](https://github.com/LGUG2Z/komorebi)
 * [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json)(this config is for two monitor setup)
 
@@ -9,8 +12,8 @@
 # [flow launcher](https://www.flowlauncher.com/)
 * Theme : [violet](https://github.com/eliaszon/Violet.flow)
 
-[AutoHotkey](https://www.autohotkey.com/)
-[komorebi+extrahotkey.ahk]()
+# [AutoHotkey](https://www.autohotkey.com/)
+[komorebi+extraHotkey.ahk](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi%2BextraHotkey.ahk)
 
 # Terminal
 * [windows terminal](https://github.com/microsoft/terminal)(I use .zip version from github)
