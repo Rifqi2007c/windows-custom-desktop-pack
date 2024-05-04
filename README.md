@@ -16,7 +16,7 @@
 * [komorebi+extraHotkey.ahk](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi%2BextraHotkey.ahk)
 
 # Terminal
-* [windows terminal](https://github.com/microsoft/terminal)(I use .zip version from github)
+* [windows terminal](https://github.com/microsoft/terminal)
    - [settings.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/settings.json)
 * [wezterm](https://wezfurlong.org/wezterm/index.html)
    - [.wezterm.lua](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.wezterm.lua)
