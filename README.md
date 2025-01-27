@@ -1,3 +1,5 @@
+# These repo was made for personal use so you might have fix few things if it didnt work well on your computer
+
 # yasb bar and terminal font (make sure to install this first)
 * [0xproto Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/0xProto.zip)
 
