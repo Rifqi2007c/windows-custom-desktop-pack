@@ -5,7 +5,7 @@
 * [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json) (this config is for two monitor setup)
 
 # [yasb bar](https://github.com/da-rth/yasb)
-![alt text]([https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/topbar.png](https://github.com/Rifqi2007c/windows-custom-desktop-pack/tree/main/asset))
+![alt text](asset/topbar.png)
 * [config.yaml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.yasb/config.yaml)
 * [styles.css](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.yasb/styles.css)
 
