@@ -13,7 +13,10 @@
 ![alt text](asset/reborn-bar.png)
 * [config.yaml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/config.yaml)
 * [style.css](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/styles.css)
-   - [script]()
+   - [pywal/winwal](https://github.com/scaryrawr/winwal)
+   - script
+      - [change bar color](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/yasbc.ps1)
+      - [change bar + terminal color](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/yasbc%2Bterminal.ps1)
 
 # [flow launcher](https://www.flowlauncher.com/)
 * Theme : [violet](https://github.com/eliaszon/Violet.flow)
