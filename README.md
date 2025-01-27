@@ -9,6 +9,8 @@
 * [config.yaml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.yasb/config.yaml)
 * [styles.css](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.yasb/styles.css)
 
+# # [yasb bar reborn](https://github.com/amnweb/yasb)
+
 # [flow launcher](https://www.flowlauncher.com/)
 * Theme : [violet](https://github.com/eliaszon/Violet.flow)
 
