@@ -21,9 +21,6 @@
 # [flow launcher](https://www.flowlauncher.com/)
 * Theme : [violet](https://github.com/eliaszon/Violet.flow)
 
-# [AutoHotkey](https://www.autohotkey.com/)
-* [komorebi+extraHotkey.ahk](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi%2BextraHotkey.ahk)
-
 # Terminal
 * [windows terminal](https://github.com/microsoft/terminal)
    - [settings.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/settings.json)
@@ -47,12 +44,22 @@
 
 # windows theme and custom cursor
 * Theme : [One Dark Pro](https://www.deviantart.com/niivu/art/One-Dark-Pro-for-Windows-11-930312689)
-* cursor : [catppuccin(mocha rosewater)](https://www.deviantart.com/niivu/art/Catppuccin-Cursors-921387705)
+* cursor
+    - [catppuccin(mocha rosewater)](https://www.deviantart.com/niivu/art/Catppuccin-Cursors-921387705)
+    - [windows 11 concept cursor](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-886489356)
 
-# task bar
+# task bar (I use windhawk for custom taskbar)
 * enable automatically hide the task bar in settings
-* put task bar on the right with [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) or [StartAllBack](https://www.startallback.com/) (I use StartAllBack)
+* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+* [StartAllBack](https://www.startallback.com/) (I use StartAllBack)
 * [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) (windows 11 only)
+
+# [windhawk mod](https://windhawk.net)
+* Classic context menu on windows 11
+* Taskbar height and icon size
+* Taskbar Volume Control
+* Windows 11 Start Menu Styler
+* Windows 11 Taskbar Styler
 
 # extra
 * [my wallaper folder](https://drive.google.com/drive/folders/1GuL6vkfVSh4UMI_UacVN7z4jhkNDJDlW?usp=drive_link)
