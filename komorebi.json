@@ -1,37 +1,74 @@
 {
-  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.22/schema.json",
-  "app_specific_configuration_path": "$Env:USERPROFILE/applications.yaml",
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.31/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
   "window_hiding_behaviour": "Cloak",
   "cross_monitor_move_behaviour": "Insert",
   "default_workspace_padding": 8,
-  "default_container_padding": -2,
-  "border_padding": 0,
-  "border_offset": -4,
-  "active_window_border": true,
-  "active_window_border_colours": {
-    "single": "#de9b67",
-    "stack": "#00a542",
-    "monocle": "#ff3399"
+  "default_container_padding": 3,
+  "border": true,
+  "border_width": 3,
+  "border_offset": -1,
+  "theme": {
+    "palette": "Base16",
+    "name": "Ashes",
+    "unfocused_border": "Base03",
+    "bar_accent": "Base0D"
+  },
+  "stackbar": {
+    "height": 40,
+    "mode": "OnStack",
+    "tabs": {
+      "width": 300
+    }
   },
   "monitors": [
     {
       "workspaces": [
-        { "name": "I", "layout": "BSP" },
-        { "name": "II", "layout": "BSP" },
-        { "name": "III", "layout": "Grid" },
-        { "name": "IV", "layout": "Grid" },
-        { "name": "V", "layout": "Grid" },
-        { "name": "VI", "layout": "Grid" }
+        {
+          "name": "I",
+          "layout": "BSP"
+        },
+        {
+          "name": "II",
+          "layout": "BSP"
+        },
+        {
+          "name": "III",
+          "layout": "BSP"
+        },
+        {
+          "name": "IV",
+          "layout": "BSP"
+        },
+        {
+          "name": "V",
+          "layout": "BSP"
+        },
+        {
+          "name": "VI",
+          "layout": "BSP"
+        }
       ]
     },
-    {"workspaces": [
-       { "name": "I", "layout": "BSP" },
-       { "name": "II", "layout": "BSP" },
-       { "name": "III", "layout": "Grid" },
-       { "name": "IV", "layout": "Grid" },
-       { "name": "V", "layout": "Grid" },
-       { "name": "VI", "layout": "Grid" }
+    {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "HorizontalStack"
+        },
+        {
+          "name": "II",
+          "layout": "HorizontalStack"
+        },
+        {
+          "name": "III",
+          "layout": "HorizontalStack"
+        },
+        {
+          "name": "IV",
+          "layout": "HorizontalStack"
+        }
       ]
-     }
+    }
   ]
 }
