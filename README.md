@@ -19,8 +19,9 @@
       - [change bar + terminal color](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/yasbc%2Bterminal.ps1)
 
 # [flow launcher](https://www.flowlauncher.com/)
-* Theme : * [violet](https://github.com/eliaszon/Violet.flow)
-          *[catppuccin](https://github.com/catppuccin/flow-launcher) 
+* Theme
+    - [violet](https://github.com/eliaszon/Violet.flow)
+    - [catppuccin](https://github.com/catppuccin/flow-launcher) 
 
 # Terminal
 * [windows terminal](https://github.com/microsoft/terminal)
