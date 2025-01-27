@@ -11,7 +11,8 @@
 
 # [yasb bar reborn](https://github.com/amnweb/yasb)
 ![alt text](asset/reborn-bar.png)
-*
+* [config.yaml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/config.yaml)
+* [style.css](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/styles.css)
 *
 
 # [flow launcher](https://www.flowlauncher.com/)
