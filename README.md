@@ -14,12 +14,13 @@
 # [yasb bar reborn](https://github.com/amnweb/yasb)
 ![alt text](asset/reborn-bar.png)
 * [config.yaml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/config.yaml)
-> this config was made for dual monitor (1 horizontal 1 vertical) if you only have one monitor remove these lines
+> this config was made for dual monitor (1 horizontal 1 vertical) pls check [config-fix](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/config-fix.md)
 * [style.css](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/styles.css)
    - [pywal/winwal](https://github.com/scaryrawr/winwal)
    - script
       - [change bar color](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/yasbc.ps1)
       - [change bar + terminal color](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/yasbc%2Bterminal.ps1)
+> the script must be put at your home directory
 > the script need to be run normally (or you can use flow launcher) first before you can use the button on the bar
 
 # [flow launcher](https://www.flowlauncher.com/)
