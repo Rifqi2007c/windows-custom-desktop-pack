@@ -1,4 +1,4 @@
-remove these line if you have one monitor
+### remove these line if you have one monitor
 ```
   status-bar-2:
     screens: ['\\.\DISPLAY2'] 
@@ -31,4 +31,9 @@ remove these line if you have one monitor
       left: ["home","komorebi_workspaces","komorebi_active_layout","active_window"]
       center: []
       right: ["clock","microphone","volume","power_menu"]
+```
+# wallpaper section
+change it into your path to wallpaper folder
+```
+image_path: "C:\\Users\\rifqi\\Documents\\wall"
 ```
