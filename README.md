@@ -13,7 +13,7 @@
 ![alt text](asset/reborn-bar.png)
 * [config.yaml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/config.yaml)
 * [style.css](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/styles.css)
-*
+   - [script]()
 
 # [flow launcher](https://www.flowlauncher.com/)
 * Theme : [violet](https://github.com/eliaszon/Violet.flow)
