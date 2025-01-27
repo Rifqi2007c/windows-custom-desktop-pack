@@ -4,7 +4,7 @@
 * [0xproto Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/0xProto.zip)
 
 # [komorebi](https://github.com/LGUG2Z/komorebi)
-* [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json) (this config is for two monitor setup)
+* [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json) (this config is for two monitor setup. 1 horizontal 1 vertical)
 
 # [yasb bar](https://github.com/da-rth/yasb)
 ![alt text](asset/topbar.png)
