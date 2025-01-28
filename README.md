@@ -6,6 +6,8 @@ if the bar didn't look right you might need to play with the style.css a bit >w<
 
 # [komorebi](https://github.com/LGUG2Z/komorebi)
 * [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json) (this config is for two monitor setup. 1 horizontal 1 vertical)
+    - whkd
+        - [whkdrc](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/whkdrc)
 
 # [yasb bar](https://github.com/da-rth/yasb)
 ![alt text](asset/topbar.png)
@@ -32,8 +34,11 @@ if the bar didn't look right you might need to play with the style.css a bit >w<
 # Terminal
 * [windows terminal](https://github.com/microsoft/terminal)
    - [settings.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/settings.json)
-* [wezterm](https://wezfurlong.org/wezterm/index.html)
+* [wezterm (for sixel support)](https://wezfurlong.org/wezterm/index.html)
    - [.wezterm.lua](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.wezterm.lua)
+ 
+# (starship)[https://starship.rs/]
+* [starship.toml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/starship.toml)
 
 # [winfetch](https://github.com/lptstr/winfetch)
 * [my custom winfetch](https://github.com/Rifqi2007c/winfetch-custom-theme)
@@ -73,3 +78,4 @@ if the bar didn't look right you might need to play with the style.css a bit >w<
 * [my wallaper folder](https://drive.google.com/drive/folders/1GuL6vkfVSh4UMI_UacVN7z4jhkNDJDlW?usp=drive_link)
 * VScode theme : Tomorrow Night Blue
 * [my firefox css](https://github.com/Rifqi2007c/firefox-css)
+* [fish(wsl)](https://fishshell.com/)
