@@ -37,7 +37,7 @@ if the bar didn't look right you might need to play with the style.css a bit >w<
 * [wezterm (for sixel support)](https://wezfurlong.org/wezterm/index.html)
    - [.wezterm.lua](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/.wezterm.lua)
  
-# (starship)[https://starship.rs/]
+# [starship](https://starship.rs/)
 * [starship.toml](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/starship.toml)
 
 # [winfetch](https://github.com/lptstr/winfetch)
