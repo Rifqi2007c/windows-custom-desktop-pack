@@ -1,10 +1,10 @@
 [color]
 gradient = 1
 gradient_count = 4
-gradient_color_1 = '#1794e6'
-gradient_color_2 = '#52b09a'
-gradient_color_3 = '#91cd4a'
-gradient_color_4 = '#cbe800'
+gradient_color_1 = '#76777a'
+gradient_color_2 = '#9c9ea1'
+gradient_color_3 = '#c3c6c9'
+gradient_color_4 = '#e1e4e8'
 
 [input]
 method = fifo
