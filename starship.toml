@@ -1,0 +1,5 @@
+# ~/.config/starship.toml
+
+[python]
+symbol = ' '
+pyenv_version_name = true
