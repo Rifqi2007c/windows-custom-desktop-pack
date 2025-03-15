@@ -24,7 +24,7 @@ if the bar didn't look right you might need to play with the style.css a bit >w<
    - script
       - [change bar color](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/yasbc.ps1)
       - [change bar + terminal color](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/yasb%20reborn/yasbc%2Bterminal.ps1)
- * > the script must be put at your home directory
+ * > the script must be put at .config/yasb directory
  * > the script need to be run normally (or you can use flow launcher) first before you can use the button on the bar
 
 # [flow launcher](https://www.flowlauncher.com/)
