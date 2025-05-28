@@ -122,7 +122,7 @@ widgets:
   active_window:
     type: "yasb.active_window.ActiveWindowWidget"
     options:
-      label: "<span>\uf427</span> {win[title]}"
+      label: "\uf427 {win[title]}"
       label_alt: "[class_name='{win[class_name]}' exe='{win[process][name]}' hwnd={win[hwnd]}]"
       label_no_window: "\uf427 what do you want to do today?"
       label_icon: false
