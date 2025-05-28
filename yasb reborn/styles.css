@@ -255,7 +255,7 @@ QToolTip {
     padding: 0;
     margin: 0;
     border-radius: 0;
-    padding-right: 4px;
+    padding-right: 10px;
     background: var(--base);
 }
 .media-widget .label {
@@ -280,18 +280,21 @@ QToolTip {
     color: #babfd3;
 }
 .media-widget .btn.play {
-    font-size: 16px;
+    font-size: 15px;
     background: var(--crust);
+    padding-left: 6px;
+    padding-right: 4px;
 }
 .media-widget .btn.prev {
     font-size: 16px;
     margin-right: 0;
-    padding-left: 4;
+    padding-left: 7;
     border-top-left-radius: 10;
 }
 .media-widget .btn.next {
     font-size: 16px;
     margin-left: 0;
+    padding-right: 5px;
 }
 .media-widget .btn.disabled:hover,
 .media-widget .btn.disabled {
