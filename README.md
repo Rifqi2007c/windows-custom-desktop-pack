@@ -1,4 +1,4 @@
-# preview
+# ![Preview](https://youtu.be/NUGU90ErOCk)
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/NUGU90ErOCk/maxresdefault.webp?v=6798fa59&sqp=CKyjuMQG&rs=AOn4CLCEg4yVGahuxR-6HmxodnfsMAI4Aw)](https://youtu.be/NUGU90ErOCk)
 
 # These repo was made for personal use so you might have fix few things if it didnt work well on your computer
