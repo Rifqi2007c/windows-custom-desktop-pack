@@ -1,5 +1,5 @@
 # preview
-[![IMAGE ALT TEXT HERE](https://youtu.be/NUGU90ErOCk/0.jpg)](https://youtu.be/NUGU90ErOCk)
+[![IMAGE ALT TEXT HERE]([https://youtu.be/NUGU90ErOCk/0.jpg](https://img.youtube.com/vi/NUGU90ErOCk/0.jpg))](https://youtu.be/NUGU90ErOCk)
 
 # These repo was made for personal use so you might have fix few things if it didnt work well on your computer
 if the bar didn't look right you might need to play with the style.css a bit >w<
