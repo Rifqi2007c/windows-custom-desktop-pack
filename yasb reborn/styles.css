@@ -89,7 +89,8 @@ QToolTip {
     margin: -1 -1 -1 -1;
 }
 .clock-widget .label{
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .komorebi-workspaces, .apps-widget, .komorebi-active-layout {
     background: #282936;
@@ -253,7 +254,7 @@ QToolTip {
 }
 .media-widget {
     padding: 0;
-    margin: 0;
+    margin-bottom: -4;
     border-radius: 0;
     padding-right: 10px;
     background: var(--base);
@@ -261,8 +262,8 @@ QToolTip {
 .media-widget .label {
     color: #bac2db;
     background-color: rgba(24, 24, 37, 0.7);
-    padding: 0px;
-    padding-right: 1px;
+    padding: 1px;
+    padding-right: 0px;
     font-size: 12px;
 }
 .media-widget .label.maintext {
@@ -354,7 +355,7 @@ QToolTip {
     margin: -1;
 }
 .wifi-widget .label {
-    padding: 1 10 1 1;
+    padding: 1 10 1 10;
     margin: 1 1 1 1;
 }
 .wifi-widget .icon{
