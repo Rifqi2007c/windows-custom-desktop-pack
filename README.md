@@ -8,7 +8,8 @@ if the bar didn't look right you might need to play with the style.css a bit >w<
 * [0xproto Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/0xProto.zip)
 
 # [komorebi](https://github.com/LGUG2Z/komorebi)
-* [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json) (this config is for two monitor setup. 1 horizontal 1 vertical)
+* [komorebi.json](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/komorebi.json)
+> this config was made for dual monitor (1 horizontal 1 vertical) pls check [config-fix](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/config-fix.md)
     - whkd
         - [whkdrc](https://github.com/Rifqi2007c/windows-custom-desktop-pack/blob/main/whkdrc)
     - [masir](https://winstall.app/apps/LGUG2Z.masir) (for window focus on cursor)
