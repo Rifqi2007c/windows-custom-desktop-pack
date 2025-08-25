@@ -1,4 +1,27 @@
-### remove these line if you have one monitor
+# Komorebi
+### remove the second workspaces if you have one monitor
+```
+ {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "HorizontalStack"
+        },
+        {
+          "name": "II",
+          "layout": "HorizontalStack"
+        },
+        {
+          "name": "III",
+          "layout": "HorizontalStack"
+        },
+        {
+          "name": "IV",
+          "layout": "HorizontalStack"
+        }
+```
+# Yasb Reborn
+### remove the second status bar if you have one monitor
 ```
   status-bar-2:
     screens: ['\\.\DISPLAY2'] 
