@@ -1,2 +1,2 @@
 wal --theme random
-yasbc stop && yasbc start
+yasbc reload
